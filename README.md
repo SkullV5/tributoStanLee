@@ -1,2 +1,2 @@
 # tributoStanLee
-Web tributo a Stan Lee (HTML + Bootstrap 5)
+Web tributo a Stan Lee (HTML + Javascript + Bootstrap 5)
